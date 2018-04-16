@@ -1,4 +1,7 @@
 {
-  "name": "Aive",
-  "age": 34
+  "profiles": [
+    {"id": 1, "name": "Aive", "age":34},
+    {"id": 2, "name": "Aive2", "age":31},
+    {"id": 3, "name": "Aive3", "age":30}
+  ]
 }
